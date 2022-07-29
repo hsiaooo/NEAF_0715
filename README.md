@@ -76,7 +76,3 @@
 - [NYCU-物件導向程式設計](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=8&gid=0&nid=343)
 - [物件導向概念](https://totoroliu.medium.com/物件導向-object-oriented-programming-概念-5f205d437fd6)
 ### Test
-
-
-## Classification
-### Tutorial 

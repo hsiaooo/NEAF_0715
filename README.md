@@ -37,10 +37,10 @@
 - [資訊之芽-Tree](https://www.youtube.com/watch?v=XEzd5yZLpoM)
 
 ## Hang in
-- [] [聿峰](https://github.com/phocion1109/NEAF_Rozen)
-- [] [承愷](https://github.com/Wu-Cheng-Kai/NEAF_Rozen)
-- [] [邦晏](https://github.com/yen111033631/NEAF_Rozen)
-- [] [智均](https://github.com/y880916c/NEAF_Rozen)
+- [聿峰](https://github.com/phocion1109/NEAF_Rozen)
+- [承愷](https://github.com/Wu-Cheng-Kai/NEAF_Rozen)
+- [邦晏](https://github.com/yen111033631/NEAF_Rozen)
+- [智均](https://github.com/y880916c/NEAF_Rozen)
 
 ## Basic Python
 [Basic Practice](https://colab.research.google.com/drive/1UVAnBfGOuaCM-qp3HO6eims7SRXwPoq6?usp=sharing)

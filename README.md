@@ -11,7 +11,7 @@
 | 7/27-8/5 (1.5w) | DIP                         |   宇涵    |
 | 8/15-8/19 (1w)  | Machine Learning            |   靖澂    |
 | 8/22-9/2 (2w)   | CNN                         |   宇涵    |
-| 9/5-9/16 (2w)   | Reinforcement Learning      | 柏瑋&靖澂&余山  |
+| 9/5-9/16 (2w)   | Reinforcement Learning      | 柏瑋&余山  |
 
 
 

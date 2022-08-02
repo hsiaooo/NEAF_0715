@@ -36,17 +36,18 @@
 - [資訊之芽-Data Structure](https://www.youtube.com/watch?v=EH5XO2iYJvM)
 - [資訊之芽-Tree](https://www.youtube.com/watch?v=XEzd5yZLpoM)
 
+## Hang in
+- [] [聿峰](https://github.com/phocion1109/NEAF_Rozen)
+- [] [承愷](https://github.com/Wu-Cheng-Kai/NEAF_Rozen)
+- [] [邦晏](https://github.com/yen111033631/NEAF_Rozen)
+- [] [智均](https://github.com/y880916c/NEAF_Rozen)
+
 ## Basic Python
 [Basic Practice](https://colab.research.google.com/drive/1UVAnBfGOuaCM-qp3HO6eims7SRXwPoq6?usp=sharing)
 [Stack & Queue](https://colab.research.google.com/drive/18zm7pgqw65PDWExdqgkeAr2DXjeKSYh_?authuser=4#scrollTo=DjuhFMc28LhC)
 > Copy a new .ipynb by youself.
 
-### Hang in
-- [ ] [Name]()
-- [ ] [聿峰](https://colab.research.google.com/drive/1yWZPCWQfMQvz-4le8268yCbW3owcyIMZ?usp=sharing)
-- [ ] [承愷]()
-- [ ] [邦晏]()
-- [ ] [智均]()
+
 
 ## Leetcode (10題)
 *Try to write the program note, and upload on your`hackmd`.*
@@ -64,12 +65,7 @@
 
 
 
-### Hang in
-- [ ] [*Example*](https://hackmd.io/CMrMJZioRPG5RS7JldgE7Q)
-- [ ] [聿峰](https://hackmd.io/@JjsgSgniRgih1SfpidI1dw/Sk0rA21H5)
-- [ ] [承愷]()
-- [ ] [邦晏]()
-- [ ] [智均]()
+
 
 ## Object-oriented programming
 ### Tutorial 
